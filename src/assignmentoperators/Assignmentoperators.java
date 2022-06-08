@@ -1,4 +1,4 @@
-package practice;
+package assignmentoperators;
 
 public class Assignmentoperators {
 

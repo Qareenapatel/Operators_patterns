@@ -1,4 +1,4 @@
-package practice;
+package logicaloperator;
 
 public class Logicaloperators {
 

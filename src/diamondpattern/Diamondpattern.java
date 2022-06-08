@@ -1,4 +1,4 @@
-package practice;
+package diamondpattern;
 
 public class Diamondpattern {
 

@@ -1,17 +1,19 @@
-package practice;
+package piramidpattern;
 
-public class Halfpiramid123 {
+public class Invertedhalfpiramid {
 
 	public static void main(String[] args) {
 		
-		int rows =6;
-		for(int i=1;i<=rows;i++) 
+				
+		for(int i=1;i<=6;i++) 
 		{
-			for(int j=1;j<=i;j++) 
+			for(int j=i;j<=6;j++) 
 
 			{
-
-				System.out.print(j +" "); 
+				if(i==1 || j==i || j==6 )
+				System.out.print("* "); 
+				else 
+				System.out.print("  ");	
 			}
 			System.out.println();
 

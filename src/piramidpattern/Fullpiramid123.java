@@ -1,4 +1,4 @@
-package practice;
+package piramidpattern;
 
 public class Fullpiramid123 {
 

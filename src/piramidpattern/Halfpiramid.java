@@ -1,13 +1,13 @@
-package practice;
+package piramidpattern;
 
-public class Hollowinvertedhalfpiramid {
+public class Halfpiramid {
 
 	public static void main(String[] args) {
 		
-				
-		for(int i=1;i<=6;i++) 
+		int rows =12;
+		for(int i=1;i<=rows;i++) 
 		{
-			for(int j=i;j<=6;j++) 
+			for(int j=1;j<=i;j++) 
 
 			{
 

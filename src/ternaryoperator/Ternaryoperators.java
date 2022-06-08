@@ -1,4 +1,4 @@
-package practice;
+package ternaryoperator;
 
 public class Ternaryoperators {
 

@@ -1,4 +1,4 @@
-package practice;
+package unaryoperator;
 
 public class Unaryoperators {
 

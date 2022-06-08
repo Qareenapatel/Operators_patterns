@@ -1,4 +1,4 @@
-package practice;
+package rightshiftoperator;
 
 public class Rightshiftoperator {
 
